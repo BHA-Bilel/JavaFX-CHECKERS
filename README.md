@@ -17,6 +17,7 @@
 * [Project dependencies](#project-dependencies)
 * [Additional info](#additional-info)
 * [Feedback](#feedback)
+* [Copyright notice](#copyright-notice)
 
 # Second try
 Checkers is the **second** learning project of my collection, still an easy target but comes with more challenge!
@@ -92,7 +93,7 @@ All the collection was initially developed in **Eclipse IDE** in late 2019, befo
 
 - This project wasn't my first nor my last experience coding in JavaFX, I'll do my best to publish other projects on my GitHub.
 
-- **All** of the projects/repositories (so far) in my profile are produced by an **individual** effort, that I coded from **scratch**. However, I won't deny that I had to watch some Youtube tutorials to get a hint of how the logic works, for example I inspired the game logic from the tutorial below:
+- **All** of the projects/repositories in my profile are produced by an **individual** effort, that I coded from **scratch**. However, I won't deny that I had to watch some Youtube tutorials to get a hint of how the logic works, for example I inspired the game logic from the tutorial below:
 
 [JavaFX Game: Checkers](https://www.youtube.com/watch?v=6S6km5duBrM) by **Almas Baimagambetov** on Youtube. Check out his channel, it's focused around game dev using JavaFX and the FXGL engine.
 
@@ -104,3 +105,11 @@ What do you think of this project? leave your thoughts/recommendations !
     <img src="https://gist.githubusercontent.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534/raw/ebb3b59e6e8af742699627d15672f28a1f144d26/feedback.gif" alt="Click here to give feedback!">
   </a>
 </p>
+
+# Copyright notice
+This public repository contain purposely **unlicensed** source code (**NOT** open-source), 
+that I only consider as a personal side project and a way to showcase my skills.
+You can surely and gladly download and play my game, or view how it's made.
+
+However, **I DO NOT** grant any kind of usage (Commercial, Patent, Private), Distribution or Modification of the source code contained in this repository.
+For a **private** license agreement please contact me at: bilel.bha.pro@gmail.com
